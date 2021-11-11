@@ -100,6 +100,9 @@ $ python3 -m pip install onnxruntime
  - Size of Printed Banner - 5x8 Feet 
  - Side Margin - 1 Feet from all sides
 
+### Oval Map Sample
+<img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/RB5_Oval_Map.png?raw=true' />
+
 ## Execution Instructions:
 In Terminal 1 :
  - Run exporting & sourcing commands
