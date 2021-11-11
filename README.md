@@ -135,8 +135,10 @@ In Terminal 2 :
 ### Now just Say "Hey Globalites!"
 
 ## Eye of RB5
-![Lane Tracking](https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/lane_tracking.png?raw=true)
+| Lane Tracking | Stop sign |
+|---------------|-----------|
+| <img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/lane_tracking.png?raw=true' /> | <img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/stop_sign.png?raw=true'> |
 
-![Stop Sign Detection](https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/stop_sign.png?raw=true)
+
 
  
