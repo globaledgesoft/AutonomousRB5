@@ -86,14 +86,10 @@ $ python3 -m pip install onnxruntime
  - Attach the camera in 3rd layer of Turtlebot Burger towards front facing.
  - Keep Angle to camera 20-30 Degree Down side.
 
- | Camera & Lidar Connection View |
- |--------------------------------|
- |<img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/RB5_Camera_Lidar.jpeg?raw=true' />|
+ | Camera & Lidar Connection View | Stop Sign Sample & View |
+ |--------------------------------| ------------------------|
+ |<img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/RB5_Camera_Lidar.jpeg?raw=true' />|<img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/RB5_Stop_Sample.jpeg?raw=true' />|
 
-
- | Stop Sign Sample & View |
- |--------------------------------|
- |<img src='https://github.com/globaledgesoft/AutonomousRB5/blob/main/image/RB5_Stop_Sample.jpeg?raw=true' />|
 
 ## Oval Map Details
  - Length of Map - 6 Feet 
